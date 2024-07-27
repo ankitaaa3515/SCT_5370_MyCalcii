@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_no_1">Enter no 1</string>
+    <string name="enter_no_2">Enter no 2</string>
+</resources>
